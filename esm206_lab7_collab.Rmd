@@ -21,7 +21,7 @@ gerbil_function <- function(temp, time){
 }
 
 gerbil_function(10,5)
-=======
+
 
 ```{r task1}
 
@@ -30,6 +30,6 @@ gerbil_function(10,5)
 
 ```{r task2}
 
->>>>>>> 8a7376b1d230bd2bd02a4afbfc5e3bac8cd02935
+
 ```
 
