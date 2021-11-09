@@ -12,6 +12,16 @@ knitr::opts_chunk$set(echo = TRUE)
 hey booboo, how's grandma?
 dead.
 was it the gerbils?
+<<<<<<< HEAD
+no, it was the guinea pigs 
+```{r}
+gerbil_function <- function(temp, time){
+  gerbil_anger <- temp - time  
+  return(gerbil_anger)
+}
+
+gerbil_function(10,5)
+=======
 
 ```{r task1}
 
@@ -20,5 +30,6 @@ was it the gerbils?
 
 ```{r task2}
 
+>>>>>>> 8a7376b1d230bd2bd02a4afbfc5e3bac8cd02935
 ```
 
