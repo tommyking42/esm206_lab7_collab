@@ -12,3 +12,13 @@ knitr::opts_chunk$set(echo = TRUE)
 hey booboo, how's grandma?
 dead.
 was it the gerbils?
+
+```{r task1}
+plot(cars)
+
+```
+
+```{r task2}
+
+```
+
