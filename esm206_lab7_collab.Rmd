@@ -22,14 +22,6 @@ gerbil_function <- function(temp, time){
 
 gerbil_function(10,5)
 
-
-```{r task1}
-
-
 ```
 
-```{r task2}
-
-
-```
 
