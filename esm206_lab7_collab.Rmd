@@ -24,4 +24,7 @@ gerbil_function(10,5)
 
 ```
 
+```{r}
+mean_value <- mean(cars$dist)
+```
 
