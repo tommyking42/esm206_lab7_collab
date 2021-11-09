@@ -14,7 +14,7 @@ dead.
 was it the gerbils?
 
 ```{r task1}
-plot(cars)
+
 
 ```
 
